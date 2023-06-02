@@ -41,4 +41,4 @@ Join me on this exciting journey of learning Dart and Flutter. Together, we'll u
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at [Muhammad Arslan](https://www.facebook.com/mrarslanusuf/)
