@@ -65,8 +65,8 @@ void main() {
   
   // Equal to Operator (==)
   
-  int num1 = 10;
-  int num2 = 20;
+  // int num1 = 10;
+  // int num2 = 20;
 
   // print(num1 == num2); // False 10 != 20
 
