@@ -16,7 +16,6 @@ void main(List<String> args) {
   print('Welcome to Dart Flutter Course');
 
   // We can print any alphanumeric value using single or double quotes
-
   print("This is hexa decimal value a24bc6778dfe3");
 
 
