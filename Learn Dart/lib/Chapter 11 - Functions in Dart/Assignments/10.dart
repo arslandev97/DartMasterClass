@@ -1,0 +1,1 @@
+// Implement a function checkPrime that takes an integer n as a parameter and checks whether it is a prime number. Return true if n is prime, and false otherwise.
