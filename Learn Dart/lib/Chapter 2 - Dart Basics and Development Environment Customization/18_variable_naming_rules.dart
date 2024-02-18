@@ -65,14 +65,14 @@ void main(List<String> args) {
   print(myFullName);
 
   
-  // 2. Snake Case
+  // 2. Pascal Case
   // Each word starts with a capital letter:
   
   String MyFullName = "Ali";
   print(MyFullName);
 
 
-  // 3. Pascal Case
+  // 3. Snake Case
   // Each word is separated by an underscore character:
 
   String my_full_name = "Arslan";
