@@ -1,5 +1,3 @@
-import 'dart:js_interop';
-
 
 void main(List<String> args) {
   
@@ -46,7 +44,7 @@ void main(List<String> args) {
   print(doubleNumber.runtimeType); // Output: double
   
   
-  print(doubleNumber.isNull); // Output: double
+  // print(doubleNumber.isNull); // Output: double
   
   
 
